@@ -1,0 +1,45 @@
+App DEMO : https://hhrrtt.streamlit.app/
+
+---------------------------------------------------------------
+
+PRIMARY LINKS : 
+
+Github Project Link :  https://github.com/d-hackmt/heart-mumur-project
+
+Kaagle Data set link : https://www.kaggle.com/datasets/abdallahaboelkhair/heartbeat-sound 
+
+Hugging Face Model Pull : https://huggingface.co/Diveshj/heart-murmur/tree/main
+
+-----------------------------------------------------------------
+
+DOMAIN UNDERSTANDING : 
+
+Youtube videos for Heart sounds and Heart murmur understanding :  
+
+1) https://www.youtube.com/watch?v=VhzK_thg_3w
+
+2) https://www.youtube.com/watch?v=dBwr2GZCmQM
+
+Youtube spectral features : https://www.youtube.com/watch?v=zxEnuPolylY
+
+Youtube Mel frequency video :  https://www.youtube.com/watch?v=SJo7vPgRlBQ
+
+LSTM : https://www.youtube.com/watch?v=rdkIOM78ZPk
+
+----------------------------------------------------------------
+Secondary Links :
+
+
+Python  : https://www.python.org/
+
+vs code  : https://code.visualstudio.com/
+
+Anigravity : https://antigravity.google/
+
+UV : https://docs.astral.sh/uv/
+
+Git download : https://git-scm.com/
+
+Github login : https://github.com/login
+
+Streamlit cloud : https://streamlit.io/cloud
