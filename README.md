@@ -4,7 +4,7 @@ Develop an AI-powered heart murmur detection system using audio signal processin
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_jbu5aijbu5aijbu5_ucGb9Kv.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_jbu5aijbu5aijbu5_ucGb9Kv.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Develop an AI-powered heart murmur detection system using audio signal processin
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Architecture_Diagram_8g04tM0.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Architecture_Diagram_8g04tM0.png"
        alt="System Architecture"
        width="600" />
 </p>
