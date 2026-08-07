@@ -1,0 +1,9 @@
+import os
+
+os.environ['TF_ENABLE_ONEDNN_OPTS']='0'
+
+SAMPLE_RATE=22050
+N_MFCC=52
+
+HF_REPO_ID=''
+HF_MODEL_FILENAME=''
